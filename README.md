@@ -25,8 +25,7 @@ If someone needed a new password that was completely secure from being hacked, t
 
 ## URL
 
-need the git hub pages repo
-
+![https://yoohooitstoo.github.io/password-generator2/}
 
 
 ## Credits
