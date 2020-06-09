@@ -27,7 +27,7 @@ If someone needed a new password that was completely secure from being hacked, t
 
 The finished password generator.
 
-![https://yoohooitstoo.github.io/password-generator2/]
+https://yoohooitstoo.github.io/password-generator2/
 
 ## Credits
 
